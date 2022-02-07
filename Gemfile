@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'https://rubygems.org'a
 
 group :development, :test do
   gem 'jekyll', '~> 3.1.1'
